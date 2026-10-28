@@ -13,3 +13,8 @@ git add -A # 해당 레포지토리 수정사항에 전역적으로 접근
 # Commit
 git commit -m "commit message..."
 ```
+
+```bash
+# push command
+git push origin main
+```
