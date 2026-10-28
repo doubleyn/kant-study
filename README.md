@@ -8,3 +8,8 @@ git init
 git add . # 현재 폴더 기준 수정사항
 git add -A # 해당 레포지토리 수정사항에 전역적으로 접근
 ```
+
+```bash
+# Commit
+git commit -m "commit message..."
+```
